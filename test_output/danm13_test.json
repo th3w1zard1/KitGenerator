@@ -1,0 +1,99 @@
+{
+    "name": "Danm13",
+    "id": "danm13_test",
+    "ht": "2.0.2",
+    "version": 1,
+    "components": [],
+    "doors": [
+        {
+            "utd_k1": "custom002_k1",
+            "utd_k2": "custom002_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "custom003_k1",
+            "utd_k2": "custom003_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door002_k1",
+            "utd_k2": "dan13_door002_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door003_k1",
+            "utd_k2": "dan13_door003_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door004_k1",
+            "utd_k2": "dan13_door004_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door005_k1",
+            "utd_k2": "dan13_door005_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door006_k1",
+            "utd_k2": "dan13_door006_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door007_k1",
+            "utd_k2": "dan13_door007_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door01_k1",
+            "utd_k2": "dan13_door01_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door02_k1",
+            "utd_k2": "dan13_door02_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door03_k1",
+            "utd_k2": "dan13_door03_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door04_k1",
+            "utd_k2": "dan13_door04_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door05_k1",
+            "utd_k2": "dan13_door05_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_door06_k1",
+            "utd_k2": "dan13_door06_k2",
+            "width": 2.0,
+            "height": 3.0
+        },
+        {
+            "utd_k1": "dan13_stat_k1",
+            "utd_k2": "dan13_stat_k2",
+            "width": 2.0,
+            "height": 3.0
+        }
+    ]
+}
